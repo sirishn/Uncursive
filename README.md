@@ -1,2 +1,1 @@
-# Uncursive
-I made a handwriting font.
+![README](Uncursive.png)
